@@ -1,0 +1,1 @@
+# Sum-of-Geometric-Progression
